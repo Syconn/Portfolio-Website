@@ -3,24 +3,24 @@
     "years_of_experience": "7+",
     "languages": [
         "Java",
-        "Shell",
         "GLSL",
         "TypeScript",
         "CSS",
         "JavaScript",
         "HTML",
-        "Python",
         "C",
-        "Makefile",
-        "C#",
         "C++",
+        "Makefile",
+        "Shell",
+        "Python",
+        "C#",
+        "MoonScript",
+        "mcfunction",
         "CMake",
         "Batchfile",
         "Mathematica",
         "Lua",
         "Kotlin",
-        "MoonScript",
-        "mcfunction",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -1914,6 +1914,11 @@
         },
         {
             "date": "2026-08-18",
+            "count": 0,
+            "level": 0
+        },
+        {
+            "date": "2026-08-19",
             "count": 0,
             "level": 0
         }
