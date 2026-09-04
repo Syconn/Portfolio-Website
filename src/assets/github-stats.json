@@ -2,25 +2,25 @@
     "public_repos": 55,
     "years_of_experience": "7+",
     "languages": [
-        "Python",
         "Java",
         "GLSL",
         "TypeScript",
         "CSS",
         "JavaScript",
         "HTML",
-        "C++",
-        "CMake",
         "C",
-        "Batchfile",
+        "Python",
+        "C++",
         "Makefile",
         "Mathematica",
         "C#",
         "Lua",
         "Kotlin",
         "Shell",
-        "MoonScript",
         "mcfunction",
+        "CMake",
+        "Batchfile",
+        "MoonScript",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -1924,6 +1924,11 @@
         },
         {
             "date": "2026-09-03",
+            "count": 0,
+            "level": 0
+        },
+        {
+            "date": "2026-09-04",
             "count": 0,
             "level": 0
         }
