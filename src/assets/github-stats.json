@@ -2,25 +2,25 @@
     "public_repos": 55,
     "years_of_experience": "7+",
     "languages": [
-        "mcfunction",
-        "Python",
         "Java",
         "GLSL",
+        "C++",
         "TypeScript",
         "CSS",
         "JavaScript",
-        "HTML",
-        "C",
-        "Makefile",
-        "C++",
         "CMake",
-        "MoonScript",
-        "Mathematica",
+        "C",
+        "Batchfile",
+        "HTML",
+        "Python",
         "C#",
+        "Shell",
+        "Mathematica",
         "Lua",
         "Kotlin",
-        "Shell",
-        "Batchfile",
+        "mcfunction",
+        "Makefile",
+        "MoonScript",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -1910,12 +1910,12 @@
     ],
     "recent_repositories": [
         {
-            "name": "StatsRepo",
-            "commits": 12
-        },
-        {
             "name": "Portfolio-Website",
             "commits": 100
+        },
+        {
+            "name": "StatsRepo",
+            "commits": 12
         },
         {
             "name": "CodeSort",
