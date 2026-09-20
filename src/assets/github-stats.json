@@ -3,28 +3,28 @@
     "years_of_experience": "7+",
     "languages": [
         "Python",
-        "MoonScript",
-        "C",
+        "mcfunction",
         "Java",
+        "GLSL",
         "TypeScript",
         "CSS",
         "JavaScript",
         "HTML",
-        "Shell",
-        "C#",
-        "mcfunction",
+        "C",
         "Makefile",
-        "GLSL",
+        "C#",
         "C++",
         "CMake",
         "Batchfile",
-        "Mathematica",
-        "Lua",
-        "Kotlin",
+        "Shell",
         "Objective-C++",
         "GAP",
         "ShaderLab",
-        "HLSL"
+        "HLSL",
+        "MoonScript",
+        "Mathematica",
+        "Lua",
+        "Kotlin"
     ],
     "total_languages": 23,
     "lines_of_code": "1505810+",
@@ -1910,12 +1910,12 @@
     ],
     "recent_repositories": [
         {
-            "name": "StatsRepo",
-            "commits": 14
-        },
-        {
             "name": "Portfolio-Website",
             "commits": 100
+        },
+        {
+            "name": "StatsRepo",
+            "commits": 14
         },
         {
             "name": "CodeSort",
