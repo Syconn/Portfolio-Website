@@ -2,29 +2,29 @@
     "public_repos": 55,
     "years_of_experience": "7+",
     "languages": [
-        "Python",
         "Java",
         "GLSL",
-        "mcfunction",
-        "C++",
-        "CMake",
-        "Mathematica",
-        "C#",
-        "Lua",
-        "Kotlin",
-        "Shell",
-        "C",
-        "Makefile",
         "TypeScript",
         "CSS",
         "JavaScript",
         "HTML",
+        "C",
+        "Makefile",
+        "Mathematica",
+        "C#",
+        "Lua",
+        "Python",
+        "Kotlin",
+        "Shell",
+        "C++",
+        "CMake",
+        "mcfunction",
         "MoonScript",
-        "Batchfile",
         "Objective-C++",
         "GAP",
         "ShaderLab",
-        "HLSL"
+        "HLSL",
+        "Batchfile"
     ],
     "total_languages": 23,
     "lines_of_code": "1505810+",
@@ -82,41 +82,6 @@
     ],
     "total_contributions": 431,
     "contributions": [
-        {
-            "date": "2025-09-21",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-09-22",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-09-23",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-09-24",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-09-25",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-09-26",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-09-27",
-            "count": 0,
-            "level": 0
-        },
         {
             "date": "2025-09-28",
             "count": 0,
@@ -1936,16 +1901,21 @@
             "date": "2026-09-26",
             "count": 0,
             "level": 0
+        },
+        {
+            "date": "2026-09-27",
+            "count": 0,
+            "level": 0
         }
     ],
     "recent_repositories": [
         {
-            "name": "Portfolio-Website",
-            "commits": 100
+            "name": "StatsRepo",
+            "commits": 15
         },
         {
-            "name": "StatsRepo",
-            "commits": 14
+            "name": "Portfolio-Website",
+            "commits": 100
         },
         {
             "name": "CodeSort",
