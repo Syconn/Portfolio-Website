@@ -4,23 +4,23 @@
     "languages": [
         "Java",
         "GLSL",
-        "Mathematica",
-        "C#",
-        "Lua",
+        "mcfunction",
         "Python",
-        "Kotlin",
         "Shell",
         "TypeScript",
         "CSS",
         "JavaScript",
         "HTML",
-        "C++",
         "CMake",
+        "C++",
         "C",
-        "Batchfile",
-        "mcfunction",
-        "MoonScript",
         "Makefile",
+        "Mathematica",
+        "C#",
+        "Lua",
+        "Kotlin",
+        "MoonScript",
+        "Batchfile",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -1924,6 +1924,11 @@
         },
         {
             "date": "2026-10-01",
+            "count": 0,
+            "level": 0
+        },
+        {
+            "date": "2026-10-02",
             "count": 0,
             "level": 0
         }
