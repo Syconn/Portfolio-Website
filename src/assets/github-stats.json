@@ -2,10 +2,10 @@
     "public_repos": 55,
     "years_of_experience": "7+",
     "languages": [
+        "Python",
         "Java",
         "GLSL",
         "mcfunction",
-        "Python",
         "C++",
         "TypeScript",
         "CSS",
@@ -14,8 +14,8 @@
         "C",
         "Batchfile",
         "HTML",
-        "Shell",
         "Makefile",
+        "Shell",
         "C#",
         "Mathematica",
         "Lua",
@@ -1904,6 +1904,11 @@
         },
         {
             "date": "2026-10-04",
+            "count": 0,
+            "level": 0
+        },
+        {
+            "date": "2026-10-05",
             "count": 0,
             "level": 0
         }
