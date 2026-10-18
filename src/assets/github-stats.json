@@ -5,22 +5,22 @@
         "Java",
         "GLSL",
         "Python",
-        "C++",
-        "CMake",
-        "C",
+        "mcfunction",
         "TypeScript",
+        "CSS",
         "JavaScript",
         "HTML",
-        "CSS",
-        "Shell",
+        "C",
         "Makefile",
-        "mcfunction",
-        "Batchfile",
-        "Mathematica",
+        "C++",
         "C#",
+        "Shell",
+        "CMake",
+        "Batchfile",
+        "MoonScript",
+        "Mathematica",
         "Lua",
         "Kotlin",
-        "MoonScript",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -1910,12 +1910,12 @@
     ],
     "recent_repositories": [
         {
-            "name": "StatsRepo",
-            "commits": 18
-        },
-        {
             "name": "Portfolio-Website",
             "commits": 100
+        },
+        {
+            "name": "StatsRepo",
+            "commits": 18
         },
         {
             "name": "CodeSort",
