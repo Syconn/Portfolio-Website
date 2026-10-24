@@ -3,28 +3,28 @@
     "years_of_experience": "7+",
     "languages": [
         "Java",
-        "Shell",
+        "GLSL",
+        "mcfunction",
         "TypeScript",
-        "CSS",
         "JavaScript",
         "HTML",
-        "CMake",
-        "C++",
-        "C",
-        "Makefile",
-        "mcfunction",
         "C#",
         "Python",
-        "GLSL",
+        "C++",
+        "CSS",
+        "CMake",
+        "C",
+        "Batchfile",
+        "Makefile",
         "Mathematica",
         "Lua",
         "Kotlin",
+        "Shell",
         "MoonScript",
         "Objective-C++",
         "GAP",
         "ShaderLab",
-        "HLSL",
-        "Batchfile"
+        "HLSL"
     ],
     "total_languages": 23,
     "lines_of_code": "1505810+",
@@ -1929,6 +1929,11 @@
         },
         {
             "date": "2026-10-23",
+            "count": 0,
+            "level": 0
+        },
+        {
+            "date": "2026-10-24",
             "count": 0,
             "level": 0
         }
