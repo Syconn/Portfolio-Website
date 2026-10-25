@@ -2,47 +2,47 @@
     "public_repos": 55,
     "years_of_experience": "7+",
     "languages": [
-        "Python",
         "Java",
         "GLSL",
-        "mcfunction",
-        "C",
-        "Shell",
+        "Python",
         "C++",
-        "CMake",
+        "C",
+        "Makefile",
+        "mcfunction",
         "TypeScript",
         "CSS",
         "JavaScript",
-        "Batchfile",
         "HTML",
-        "Makefile",
+        "Shell",
         "MoonScript",
+        "CMake",
         "C#",
         "Mathematica",
         "Lua",
         "Kotlin",
+        "Batchfile",
         "Objective-C++",
         "GAP",
         "ShaderLab",
         "HLSL"
     ],
     "total_languages": 23,
-    "lines_of_code": "1505810+",
+    "lines_of_code": "1506418+",
     "top_languages": [
         {
             "name": "JavaScript",
             "lines": 766695,
-            "percent": 50.92
+            "percent": 50.9
         },
         {
             "name": "C#",
             "lines": 395289,
-            "percent": 26.25
+            "percent": 26.24
         },
         {
             "name": "TypeScript",
-            "lines": 127267,
-            "percent": 8.45
+            "lines": 127604,
+            "percent": 8.47
         },
         {
             "name": "Java",
@@ -61,8 +61,8 @@
         },
         {
             "name": "CSS",
-            "lines": 9484,
-            "percent": 0.63
+            "lines": 9742,
+            "percent": 0.65
         },
         {
             "name": "C++",
@@ -82,41 +82,6 @@
     ],
     "total_contributions": 410,
     "contributions": [
-        {
-            "date": "2025-10-19",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-10-20",
-            "count": 1,
-            "level": 1
-        },
-        {
-            "date": "2025-10-21",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-10-22",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-10-23",
-            "count": 2,
-            "level": 1
-        },
-        {
-            "date": "2025-10-24",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-10-25",
-            "count": 0,
-            "level": 0
-        },
         {
             "date": "2025-10-26",
             "count": 0,
@@ -1936,16 +1901,21 @@
             "date": "2026-10-24",
             "count": 0,
             "level": 0
+        },
+        {
+            "date": "2026-10-25",
+            "count": 0,
+            "level": 0
         }
     ],
     "recent_repositories": [
         {
-            "name": "Portfolio-Website",
-            "commits": 100
+            "name": "StatsRepo",
+            "commits": 19
         },
         {
-            "name": "StatsRepo",
-            "commits": 18
+            "name": "Portfolio-Website",
+            "commits": 100
         },
         {
             "name": "CodeSort",
