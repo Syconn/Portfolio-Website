@@ -2,23 +2,23 @@
     "public_repos": 55,
     "years_of_experience": "7+",
     "languages": [
-        "Python",
         "Java",
         "GLSL",
-        "mcfunction",
-        "C++",
-        "C",
-        "Makefile",
+        "Python",
         "TypeScript",
         "CSS",
         "JavaScript",
         "HTML",
-        "C#",
-        "Shell",
+        "C",
+        "Makefile",
         "Mathematica",
+        "C#",
         "Lua",
         "Kotlin",
+        "Shell",
         "MoonScript",
+        "mcfunction",
+        "C++",
         "CMake",
         "Batchfile",
         "Objective-C++",
@@ -1919,6 +1919,11 @@
         },
         {
             "date": "2026-11-04",
+            "count": 0,
+            "level": 0
+        },
+        {
+            "date": "2026-11-05",
             "count": 0,
             "level": 0
         }
