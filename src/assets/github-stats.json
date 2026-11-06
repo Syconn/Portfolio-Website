@@ -5,21 +5,21 @@
         "Java",
         "GLSL",
         "mcfunction",
-        "C++",
-        "CMake",
         "Python",
-        "C",
         "TypeScript",
         "CSS",
         "JavaScript",
-        "Batchfile",
         "HTML",
+        "C++",
+        "CMake",
+        "C",
+        "Batchfile",
+        "Makefile",
         "Shell",
         "Mathematica",
         "C#",
         "Lua",
         "Kotlin",
-        "Makefile",
         "MoonScript",
         "Objective-C++",
         "GAP",
@@ -1924,6 +1924,11 @@
         },
         {
             "date": "2026-11-05",
+            "count": 0,
+            "level": 0
+        },
+        {
+            "date": "2026-11-06",
             "count": 0,
             "level": 0
         }
