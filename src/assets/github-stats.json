@@ -6,21 +6,21 @@
         "GLSL",
         "mcfunction",
         "Python",
-        "TypeScript",
-        "CSS",
-        "JavaScript",
-        "HTML",
-        "C#",
-        "C++",
-        "CMake",
-        "C",
-        "Makefile",
-        "MoonScript",
         "Mathematica",
+        "C#",
         "Lua",
         "Kotlin",
         "Shell",
+        "C++",
+        "C",
+        "Makefile",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "CMake",
         "Batchfile",
+        "MoonScript",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -82,41 +82,6 @@
     ],
     "total_contributions": 407,
     "contributions": [
-        {
-            "date": "2025-11-02",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-11-03",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-11-04",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-11-05",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-11-06",
-            "count": 11,
-            "level": 4
-        },
-        {
-            "date": "2025-11-07",
-            "count": 0,
-            "level": 0
-        },
-        {
-            "date": "2025-11-08",
-            "count": 0,
-            "level": 0
-        },
         {
             "date": "2025-11-09",
             "count": 0,
@@ -1936,16 +1901,21 @@
             "date": "2026-11-07",
             "count": 0,
             "level": 0
+        },
+        {
+            "date": "2026-11-08",
+            "count": 0,
+            "level": 0
         }
     ],
     "recent_repositories": [
         {
-            "name": "Portfolio-Website",
-            "commits": 100
+            "name": "StatsRepo",
+            "commits": 21
         },
         {
-            "name": "StatsRepo",
-            "commits": 20
+            "name": "Portfolio-Website",
+            "commits": 100
         },
         {
             "name": "CodeSort",
