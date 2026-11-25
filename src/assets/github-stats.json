@@ -2,25 +2,25 @@
     "public_repos": 55,
     "years_of_experience": "7+",
     "languages": [
-        "Python",
-        "mcfunction",
         "Java",
         "GLSL",
         "TypeScript",
         "JavaScript",
         "HTML",
         "C++",
-        "CSS",
-        "CMake",
         "C",
-        "Batchfile",
-        "C#",
-        "MoonScript",
         "Makefile",
         "Mathematica",
+        "C#",
         "Lua",
+        "Python",
         "Kotlin",
         "Shell",
+        "CSS",
+        "CMake",
+        "Batchfile",
+        "mcfunction",
+        "MoonScript",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -80,7 +80,7 @@
             "percent": 0.12
         }
     ],
-    "total_contributions": 401,
+    "total_contributions": 411,
     "contributions": [
         {
             "date": "2025-11-23",
@@ -1909,11 +1909,16 @@
         },
         {
             "date": "2026-11-23",
-            "count": 0,
-            "level": 0
+            "count": 2,
+            "level": 1
         },
         {
             "date": "2026-11-24",
+            "count": 8,
+            "level": 3
+        },
+        {
+            "date": "2026-11-25",
             "count": 0,
             "level": 0
         }
