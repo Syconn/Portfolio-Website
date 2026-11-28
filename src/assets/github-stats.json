@@ -5,22 +5,22 @@
         "mcfunction",
         "Java",
         "GLSL",
-        "Python",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Shell",
-        "C",
-        "Makefile",
         "C++",
         "CMake",
-        "Batchfile",
+        "C",
+        "Makefile",
+        "Python",
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "HTML",
         "C#",
+        "Batchfile",
         "MoonScript",
         "Mathematica",
         "Lua",
         "Kotlin",
+        "Shell",
         "Objective-C++",
         "GAP",
         "ShaderLab",
@@ -80,7 +80,7 @@
             "percent": 0.12
         }
     ],
-    "total_contributions": 414,
+    "total_contributions": 415,
     "contributions": [
         {
             "date": "2025-11-23",
@@ -1929,8 +1929,13 @@
         },
         {
             "date": "2026-11-27",
-            "count": 3,
-            "level": 1
+            "count": 4,
+            "level": 2
+        },
+        {
+            "date": "2026-11-28",
+            "count": 0,
+            "level": 0
         }
     ],
     "recent_repositories": [
